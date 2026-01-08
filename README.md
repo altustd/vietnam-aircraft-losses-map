@@ -1,4 +1,4 @@
-# Vietnam War Downed Aircraft: Interactive Geospatial Map and associated data
+# Vietnam War Downed Aircraft: Interactive Geospatial Map and Associated Data
 
 An interactive web application mapping U.S. aircraft losses during the Vietnam War (1962–1973), with details on crash sites, crew fates (including MIA/POW status), and connections to Vietnam-era commemorative bracelets worn by civilians in support.
 
